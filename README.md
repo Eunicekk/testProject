@@ -7,7 +7,6 @@
 | 1 | 부승관 | 26
 | 2 | 전원우 | 28
 
-
 ```java
 public class Student{
   public static void main(String[] args) {
